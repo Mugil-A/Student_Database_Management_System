@@ -1,0 +1,1 @@
+The Student Database Management System is a PostgreSQL-based project designed to efficiently store and manage student information. It allows adding, updating, and retrieving student records, making it easy to organize and access academic data. The system provides a simple and effective way to maintain student details in a structured database.
